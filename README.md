@@ -1,6 +1,6 @@
 # About me
 
-I am a PhD student at the University of Liège, Belgium, under the supervision of Pr Damien Ernst. My research focuses on developing assessing the importance that structure can have in both the modeling and the solving of structured mixed integer linear programming problems (that typically arise in supply chain management or energy systems). 
+I am a PhD student at the University of Liège, Belgium, under the supervision of Pr Damien Ernst. My research focuses on assessing the importance that structure can have in both the modeling and the solving of structured mixed integer linear programming problems (that typically arise in supply chain management or energy systems). 
 
 My contact informations can be found [here](https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u235534).
 
