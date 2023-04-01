@@ -7,7 +7,7 @@ My contact informations can be found [here](https://www.uliege.be/cms/c_9054334/
 # Modeling structure
 The first part of the thesis focuses on modeling the structure that exists in structured mixed integer linear programming problems. The Graph-Based Optimization Modeling Language (GBOML) is a modeling language for mathematical programming enabling the easy implementation of a broad class of structured mixed-integer linear programs typically found in applications ranging from energy system planning to supply chain management. More precisely, the language is particularly well-suited for representing problems involving the optimization of discrete-time dynamical systems over a finite time horizon and possessing a block structure that can be encoded by a hierarchical hypergraph. The language combines elements of both algebraic and object-oriented modeling languages in order to facilitate problem encoding and model re-use, speed up model generation, expose problem structure to specialised solvers and simplify post-processing. The GBOML parser, which is implemented in Python, turns GBOML input files into hierarchical graph data structures representing optimization models. The associated tool provides both a command-line interface and a Python API to construct models, and directly interfaces with a variety of open source and commercial solvers, including structure-exploiting ones. Link: [https://gitlab.uliege.be/smart_grids/public/gboml](https://gitlab.uliege.be/smart_grids/public/gboml).
 
-# Publications under-review
+# Under revision
 
 - Bardhyl Miftari, Mathias Berger, Guillaume Derval and Damien Ernst, GBOML: A Structure-exploiting Optimization Modelling Language in Python, Optimization Methods and Software, [https://orbi.uliege.be/handle/2268/296930](https://orbi.uliege.be/handle/2268/296930).
 
@@ -17,7 +17,7 @@ The first part of the thesis focuses on modeling the structure that exists in st
 
 - Bardhyl Miftari, Guillaume Derval, Mathias Berger and Damien Ernst, GBOML: A modelling tool for structured MILPs, 23rd Conference of the International Federation of Operational Research Societies, [https://ifors2023.com/](https://ifors2023.com/).
 
-# Publications published
+# Publications
 
 - Bardhyl Miftari and Mathias Berger and Hatim Djelassi and Damien Ernst, GBOML: Graph-Based Optimization Modeling Language, Journal of Open Source Software, 2022, [https://doi.org/10.21105/joss.04158](https://doi.org/10.21105/joss.04158).
 
@@ -27,6 +27,17 @@ The first part of the thesis focuses on modeling the structure that exists in st
 
 - Bardhyl Miftari, Guillaume Derval and Damien Ernst, Optimal Sizing and Operations Of Energy Systems Using GBOML, Course at Uliege, [https://orbi.uliege.be/handle/2268/299668](https://orbi.uliege.be/handle/2268/299668). 
 
-# Teaching assistant
+
+# Other
+
+## Conference organization
+
+- Technical Assistant at CIRED 2022 and CIRED 2023.
+
+## Teaching assistant
 
 - Optimal decision making in complex problems, [http://blogs.ulg.ac.be/damien-ernst/teaching/info8003-1-optimal-decision-making-for-complex-problems/](http://blogs.ulg.ac.be/damien-ernst/teaching/info8003-1-optimal-decision-making-for-complex-problems/).
+
+- Additional information technology, [https://www.programmes.uliege.be/cocoon/20222023/en/cours/INFO0952-1.html](https://www.programmes.uliege.be/cocoon/20222023/en/cours/INFO0952-1.html).
+
+- Introduction to numerical methods and project, [https://www.programmes.uliege.be/cocoon/20222023/en/cours/PROJ0001-1.html](https://www.programmes.uliege.be/cocoon/20222023/en/cours/PROJ0001-1.html) (Previously)
