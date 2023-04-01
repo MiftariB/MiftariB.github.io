@@ -29,7 +29,7 @@ Link to the repository: [https://gitlab.uliege.be/smart_grids/public/gboml](http
 
 - **Bardhyl Miftari**, Guillaume Derval and Damien Ernst, _Optimal Sizing and Operations Of Energy Systems Using GBOML_, Course at Uliege, [https://orbi.uliege.be/handle/2268/299668](https://orbi.uliege.be/handle/2268/299668). 
 
-- **Bardhyl Miftari**, Mathias Berger and Damien Ernst, _Advances in GBOML_, 2st Uliege-UCL Workshop on Energy, 2022.
+- **Bardhyl Miftari**, Mathias Berger and Damien Ernst, _Advances in GBOML_, 2nd Uliege-UCL Workshop on Energy, 2022.
 
 - **Bardhyl Miftari**, Mathias Berger and Damien Ernst, _Introduction to GBOML_, 1st Uliege-UCL Workshop on Energy, 2021.
 
