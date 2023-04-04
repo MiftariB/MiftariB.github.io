@@ -14,27 +14,27 @@ Link to the [repository](https://gitlab.uliege.be/smart_grids/public/gboml).
 
 ## Under revision
 
-- **Bardhyl Miftari**, Mathias Berger, Guillaume Derval and Damien Ernst, _GBOML: A Structure-exploiting Optimization Modelling Language in Python_, Optimization Methods and Software, [paper](https://orbi.uliege.be/handle/2268/296930).
+- _Bardhyl Miftari_, Mathias Berger, Guillaume Derval and Damien Ernst, **GBOML: A Structure-exploiting Optimization Modelling Language in Python**, Optimization Methods and Software, [paper](https://orbi.uliege.be/handle/2268/296930).
 
 ## Future presentations 
 
-- **Bardhyl Miftari**, Mathias Berger, Guillaume Derval and Damien Ernst, _Exploiting Structure in MILP: a Modeler’s Perspective_, 2023 SIAM Conference on Optimization (OP23), Seattle USA, [abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=129961).
+- _Bardhyl Miftari_, Mathias Berger, Guillaume Derval and Damien Ernst, **Exploiting Structure in MILP: a Modeler’s Perspective**, 2023 SIAM Conference on Optimization (OP23), Seattle USA, [abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=129961).
 
-- **Bardhyl Miftari**, Guillaume Derval, Mathias Berger and Damien Ernst, _GBOML: A modelling tool for structured MILPs_, 23rd Conference of the International Federation of Operational Research Societies, Santiago Chile, [conference website](https://ifors2023.com/).
+- _Bardhyl Miftari_, Guillaume Derval, Mathias Berger and Damien Ernst, **GBOML: A modelling tool for structured MILPs**, 23rd Conference of the International Federation of Operational Research Societies, Santiago Chile, [conference website](https://ifors2023.com/).
 
 ## Publications
 
-- **Bardhyl Miftari**, Mathias Berger, Hatim Djelassi and Damien Ernst, _GBOML: Graph-Based Optimization Modeling Language_, Journal of Open Source Software, 2022, [paper](https://doi.org/10.21105/joss.04158).
+- _Bardhyl Miftari_, Mathias Berger, Hatim Djelassi and Damien Ernst, **GBOML: Graph-Based Optimization Modeling Language**, Journal of Open Source Software, 2022, [paper](https://doi.org/10.21105/joss.04158).
 
 ## Previous presentations
 
-- **Bardhyl Miftari**, Guillaume Derval and Damien Ernst, _Tutorial: “An Introduction To Sizing And Operations of Energy Systems with GBOML”_, March 2023, 2nd International workshop on "Open Source Modeling and Simulation of Energy Systems" OSMSES 2023, Aachen Germany, [presentation slides](https://orbi.uliege.be/handle/2268/301220).
+- _Bardhyl Miftari_, Guillaume Derval and Damien Ernst, **Tutorial: “An Introduction To Sizing And Operations of Energy Systems with GBOML”**, March 2023, 2nd International workshop on "Open Source Modeling and Simulation of Energy Systems" OSMSES 2023, Aachen Germany, [presentation slides](https://orbi.uliege.be/handle/2268/301220).
 
-- **Bardhyl Miftari**, Guillaume Derval and Damien Ernst, _Optimal Sizing and Operations Of Energy Systems Using GBOML_, Course at Uliege, [presentation slides](https://orbi.uliege.be/handle/2268/299668). 
+- _Bardhyl Miftari_, Guillaume Derval and Damien Ernst, **Optimal Sizing and Operations Of Energy Systems Using GBOML**, Course at Uliege, [presentation slides](https://orbi.uliege.be/handle/2268/299668). 
 
-- **Bardhyl Miftari**, Mathias Berger and Damien Ernst, _Advances in GBOML_, 2nd Uliege-UCL Workshop on Energy, 2022.
+- _Bardhyl Miftari_, Mathias Berger and Damien Ernst, **Advances in GBOML**, 2nd Uliege-UCL Workshop on Energy, 2022.
 
-- **Bardhyl Miftari**, Mathias Berger and Damien Ernst, _Introduction to GBOML_, 1st Uliege-UCL Workshop on Energy, 2021.
+- _Bardhyl Miftari_, Mathias Berger and Damien Ernst, **Introduction to GBOML**, 1st Uliege-UCL Workshop on Energy, 2021.
 
 ## Other
 
