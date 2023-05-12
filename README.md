@@ -17,7 +17,7 @@ Link to the [repository](https://gitlab.uliege.be/smart_grids/public/gboml).
 - _Bardhyl Miftari_, Mathias Berger, Guillaume Derval and Damien Ernst, **GBOML: A Structure-exploiting Optimization Modelling Language in Python**, Optimization Methods and Software, [paper](https://orbi.uliege.be/handle/2268/296930).
 
 ## Future presentations 
-- _Bardhyl Miftari_, Guillaume Derval, Mathias Berger and Damien Ernst, **GBOML: A modelling tool for structured MILPs**, Poster at MIP 2023, Los Angeles, USA [conference website](https://ifors2023.com/](https://www.mixedinteger.org/2023/).
+- _Bardhyl Miftari_, Guillaume Derval, Mathias Berger and Damien Ernst, **GBOML: A modelling tool for structured MILPs**, Poster at MIP 2023, Los Angeles, USA [conference website](https://www.mixedinteger.org/2023/).
 
 - _Bardhyl Miftari_, Mathias Berger, Guillaume Derval and Damien Ernst, **Exploiting Structure in MILP: a Modeler’s Perspective**, 2023 SIAM Conference on Optimization (OP23), Seattle USA, [abstract](https://meetings.siam.org/sess/dsp_talk.cfm?p=129961).
 
