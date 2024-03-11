@@ -12,11 +12,9 @@
 
 Link to the [repository](https://gitlab.uliege.be/smart_grids/public/gboml).
 
-## Under revision
+## Publications
 
 - _Bardhyl Miftari_, Mathias Berger, Guillaume Derval and Damien Ernst, **GBOML: A Structure-exploiting Optimization Modelling Language in Python**, Optimization Methods and Software, [paper](https://orbi.uliege.be/handle/2268/296930).
-
-## Publications
 
 - _Bardhyl Miftari_, Mathias Berger, Hatim Djelassi and Damien Ernst, **GBOML: Graph-Based Optimization Modeling Language**, Journal of Open Source Software, 2022, [paper](https://doi.org/10.21105/joss.04158).
 
